@@ -1,0 +1,81 @@
+.precio {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.precio h2 {
+    color: #333;
+}
+
+.precio .precio {
+    font-size: 24px;
+    color: #007bff;
+    margin-bottom: 20px;
+}
+
+.precio ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.precio ul li {
+    padding: 10px 0;
+}
+
+.boton {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+	
+}
+
+.boton:hover {
+    background-color: #0056b3;
+}
+
+h1 {
+    font-size: 50px;
+	
+	font-family: Gill Sans Extrabold;
+
+	
+	
+}
+
+h4 {
+    font-size: 20px;
+	
+	font-family: Bold;
+
+	
+	
+}
+
+h2 {
+    font-size: 30px;
+	
+	font-family: cursive;
+
+	
+	
+}
+
+h1 {
+    font-size: 50px;
+	
+	font-family: Gill Sans Extrabold;
+
+	
+	
+}
+
+
+

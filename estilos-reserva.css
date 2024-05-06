@@ -1,0 +1,69 @@
+@charset "utf-8";
+
+
+.boton {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+	
+}
+
+.boton:hover {
+    background-color: #0056b3;
+}
+
+/* estilo caja de texto */
+input[type="text"] {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  width: 300px;
+  outline: none;
+}
+
+/* estilo al pasar el ratón sobre la caja de texto */
+input[type="text"]:hover {
+  border-color: #999;
+}
+
+/* estilo cuando la caja de texto está enfocada */
+input[type="text"]:focus {
+  border-color: #33ccff;
+  box-shadow: 0 0 50px #33ccff;
+}
+
+h1 {
+    font-size: 50px;
+	
+	font-family: Gill Sans Extrabold;
+
+	
+	
+}
+
+h3 {
+    font-size: 25px;
+	
+	font-family: cursive;
+
+	
+	
+}
+
+h2 {
+    font-size: 30px;
+	
+	font-family: Lucida Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+
+	
+	
+}
+
+
+
+
+
